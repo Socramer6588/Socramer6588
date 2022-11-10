@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Imagen Presentación](./img/Sad.png)
+
+
+
+
+
+
 <!--
 **Socramer6588/Socramer6588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
