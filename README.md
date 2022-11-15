@@ -3,10 +3,6 @@
 
 ![Imagen Presentación](./img/Sad.png)
 
-![Imagen Presentación 2](https://github.com/Socramer6588/EjemploGit/blob/master/img/CapturaRepo.png)
-
-
-
 
 <!--
 **Socramer6588/Socramer6588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
