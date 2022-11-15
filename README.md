@@ -1,4 +1,4 @@
-# Mermelada de medusa :)
+# Mermelada de medusa
 
 
 ![Imagen Presentación](./img/Sad.png)
